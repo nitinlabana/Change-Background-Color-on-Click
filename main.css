@@ -1,0 +1,16 @@
+.container{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    }
+    .btn{
+        background-color: aqua;
+        width: 150px;
+        height: 60px;
+        border: 1px solid transparent;
+        border-radius: 8px;
+    }
